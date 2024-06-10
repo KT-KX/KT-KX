@@ -7,7 +7,7 @@
 🌱 I’m currently learning in various nlp tools and application 
 💬 Ask me about Artificial Intelligence
 📫 How to reach me: kuantianeng@gmail.com
-😄 Pronouns: KT
+😄 Pronouns: He
 
 📚 Year 1:
 
