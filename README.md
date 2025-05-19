@@ -1,21 +1,48 @@
-- 👋 Hi, I’m @KT-KX
-🚀 Aspiring AI Engineer | Python & TensorFlow Enthusiast | Machine Learning Advocate 🤖
+# 👋 Hi, I'm Kuan Tian (KT)
 
-🎓 Currently immersing myself in the exciting world of Engineering with a focus on Artificial Intelligence at Xiamen University Malaysia. 🎓
+Welcome to my GitHub profile!
 
-🔭 I’m currently working on NLP and Deep Learning research and project
-🌱 I’m currently learning in various nlp tools and application 
-💬 Ask me about Artificial Intelligence
-📫 How to reach me: kuantianeng@gmail.com
-😄 Pronouns: He
+I'm an **AI Engineer** passionate about building intelligent systems that bridge the gap between theory and practical application. I specialize in **Natural Language Processing (NLP)**, **MLOps**, **AI agents**, and **multimodal learning**. My current work explores the intersection of **AI automation**, **cloud deployment**, and **real-world machine learning pipelines**. I am currently working as a AI Developer.
 
-📚 Year 1:
+---
 
-Delving into the foundational pillars of AI with courses in Calculus, Linear Algebra, and Probability and Statistics.
-Building a strong programming foundation with Python and diving into the world of Tensorflow programming.
-Exploring the Principles of Artificial Intelligence and its diverse applications.
-📚 Year 2:
+## 🔧 Tech Stack & Tools
 
-Expanding my knowledge with courses in Discrete Mathematics, Data Structures, and Applied Machine Learning.
-Gaining insights into computer composition, matrix analysis, and the design and analysis of algorithms.
-Venturing into the realms of Deep Learning and choosing electives like Natural Language Processing and Computer Vision and Robotics.
+- 🧠 **Machine Learning & AI**: PyTorch, TensorFlow, Scikit-learn, H2O.ai, CatBoost
+- 🧪 **NLP & LLMs**: Hugging Face Transformers, BERT, GPT-based models  
+- 🔗 **MLOps & Automation**: MLflow, Docker, n8n, REST APIs, MongoDB  
+- 🌐 **Web & Cloud**: FastAPI, Node.js, Firebase, GCP, Vercel , Google cloud
+- 💻 **Languages**: Python, Java, TypeScript, Bash, SQL, C 
+- 📊 **Data Engineering**: Pandas, Spark (PySpark), Airflow  
+- 📦 **DevOps & Tools**: GitHub Actions, CI/CD, Cron, VS Code, Jupyter
+- **AI AGENT**: RASA, LANGCHAIN, YELLOWAI, IBM WATSON, KOREAI
+
+---
+
+## 🚀 Current Projects
+
+- 🧠 **Financial Multimodal Chatbot** — Intelligent assistant offering personalized financial health analysis.
+- 📰 **Fake News Detection (FYP)** — Reinforcement Learning-based system detecting text/image/AI-generated misinformation.
+- 🏢 **University Smart System** — Includes chatbot, smart parking, appointment booking, and license plate recognition.
+- 🏠 **Real Estate Scraper + AI Pipeline** — Automated property agent info extraction and AI-driven analysis.
+- **Blockchain of BDA in food industry** - Research on integrating blockchain in big data analytics in food industry.
+---
+
+## 📈 Goals for 2025
+
+- ✅ Publish my FYP as a full-stack AI research + demo project  
+- ✅ Contribute to open-source tools in the AI agent/NLP space  
+- ✅ Ship a SaaS MVP combining LLMs + automation workflows  
+- ⏳ Complete AI certification or research internship  
+
+---
+
+## 📫 Let's Connect!
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/eng-kuan-tian-64a649229/) (Insert your link)  
+- 📩 Email: [kuantianeng@gmail.com]  
+
+---
+
+> “The future is already here — it's just not evenly distributed.” – William Gibson
+
